@@ -28,3 +28,16 @@ return: {
   #Dictionary containing the same information as https://www.npmjs.com/package/dthings-api
 
 }
+```
+
+# Install Example
+
+```py
+#In console
+
+cd .../dist 
+
+pip3 install dthings-py-1.0.0.tar.gz
+#If you only have one version of python installed just use "pip" instead of "pip3"
+
+```
